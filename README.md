@@ -10,7 +10,7 @@ This repository contains a Python-based framework for processing video files to 
 2. Uniform Sampling
 3. Scene Change Detection
 4. Keyframe Clustering
-5. Object Detection with YOLOv8
+5. Object Detection with YOLO
 6. Frame Visualization
 
 ---
