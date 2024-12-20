@@ -1,6 +1,6 @@
 # **Video Analysis and Object Detection Framework**
 
-This repository contains a Python-based framework for processing video files to extract frames, detect keyframes, and perform object detection using YOLOv8. Below is a detailed analysis of the implemented methods, their performance, and references to relevant research papers.
+This repository contains a Python-based framework for processing video files to extract frames, detect keyframes, and perform object detection using YOLO. Below is a detailed analysis of the implemented methods, their performance, and references to relevant research papers.
 
 ---
 
@@ -10,7 +10,7 @@ This repository contains a Python-based framework for processing video files to 
 2. Uniform Sampling
 3. Scene Change Detection
 4. Keyframe Clustering
-5. Object Detection with YOLO
+5. Object Detection with YOLOv8
 6. Frame Visualization
 
 ---
@@ -165,5 +165,8 @@ This repository contains a Python-based framework for processing video files to 
 - YOLOv8 Documentation: [https://docs.ultralytics.com](https://docs.ultralytics.com)
 - Original YOLO Paper: ["You Only Look Once"](https://arxiv.org/abs/1506.02640)
 - Histogram Comparison: ["A new histogram similarity measure for robust image registration"](https://www.sciencedirect.com/science/article/pii/S089561119600045X)
+- For more Advanced Implementation: 
+  - ([https://openaccess.thecvf.com/content\_WACV\_2020/papers/Ren\_Best\_Frame\_Selection\_in\_a\_Short\_Video\_WACV\_2020\_paper.pdf](https://openaccess.thecvf.com/content_WACV_2020/papers/Ren_Best_Frame_Selection_in_a_Short_Video_WACV_2020_paper.pdf))
+  - Localisation ([https://arxiv.org/pdf/2004.12276](https://arxiv.org/pdf/2004.12276)) 
 
 ---
