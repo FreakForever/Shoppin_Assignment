@@ -166,7 +166,7 @@ This repository contains a Python-based framework for processing video files to 
 - Original YOLO Paper: ["You Only Look Once"](https://arxiv.org/abs/1506.02640)
 - Histogram Comparison: ["A new histogram similarity measure for robust image registration"](https://www.sciencedirect.com/science/article/pii/S089561119600045X)
 - For more Advanced Implementation: 
-  - ([https://openaccess.thecvf.com/content\_WACV\_2020/papers/Ren\_Best\_Frame\_Selection\_in\_a\_Short\_Video\_WACV\_2020\_paper.pdf](https://openaccess.thecvf.com/content_WACV_2020/papers/Ren_Best_Frame_Selection_in_a_Short_Video_WACV_2020_paper.pdf))
+  - Best frame selection in short video ([https://openaccess.thecvf.com/content\_WACV\_2020/papers/Ren\_Best\_Frame\_Selection\_in\_a\_Short\_Video\_WACV\_2020\_paper.pdf](https://openaccess.thecvf.com/content_WACV_2020/papers/Ren_Best_Frame_Selection_in_a_Short_Video_WACV_2020_paper.pdf))
   - Localisation ([https://arxiv.org/pdf/2004.12276](https://arxiv.org/pdf/2004.12276)) 
 
 ---
